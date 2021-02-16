@@ -1,0 +1,64 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   #background{
+    width: auto;
+    background-color: rgb(59, 59, 116);
+    padding: 15px;
+   }
+   .header{
+    min-height: 150px;
+    background-color: rgb(214, 34, 34);
+    margin-bottom: 15px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   }
+   .title{
+    font-size: 26px;
+    color: rgb(218, 214, 214);
+    font-weight: bold;
+    margin-left: 15px;
+    justify-content: space-between;
+   }
+   .home {
+    width: 14%;
+    min-height: 400px;
+    background-color: rgb(2, 134, 134);
+    display: inline-block;
+    border-radius: 25px;
+    justify-content: space-between;
+    vertical-align: top;
+    align-content: center;
+   }
+   .t1 {
+    margin-top: 25px;
+    margin-left: 25px;
+   }
+   .ml {
+    margin-left: 25px;
+   }
+   .l2 {
+    margin-left: 40px;
+   }
+   .main {
+    width: 85%;
+    min-height: 935px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 25px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+   }
+   .bottom {
+    background-color: grey;
+    width: auto;
+    min-height: 150px;
+    border-radius: 30px;
+   }
+   a {
+       color:lightskyblue;
+   }
