@@ -1,0 +1,49 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+p,
+blockquote,
+table,
+th,
+td,
+embed,
+object {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+#wrapper {
+    background-color: grey;
+    height: 1000px;
+}
+#sidebar {
+    background-color: white;
+    margin: 20px 10px 0px 10px;
+}
+#main {
+    background-color: white;
+    margin: 20px 10px 0px 10px;
+}
+#main img {
+    height: 120px;
+}
