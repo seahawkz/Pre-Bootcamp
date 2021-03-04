@@ -43,7 +43,17 @@ object {
 #main {
     background-color: white;
     margin: 20px 10px 0px 10px;
+    text-align: center;
 }
 #main img {
-    height: 120px;
+    height: 150px;
+}
+ul {
+    list-style: none;
+}
+.score {
+    font-size: 4rem;
+}
+.vs {
+    font-size: 3rem;
 }
