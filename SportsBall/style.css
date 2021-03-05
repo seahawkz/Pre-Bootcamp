@@ -44,7 +44,7 @@ body {
 #wrapper {
     padding: 20px;
 }
-#sidebar {
+#sidebar1, #sidebar2, #sidebar3 {
     background-color: rgb(100, 191, 243);
     margin: 20px 10px 0px 10px;
     min-width: 190px;
