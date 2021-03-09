@@ -1,0 +1,20 @@
+num = 0     log 0
+num = 1     log 1
+num = 2     log 2
+repeat until num = 14, when num = 15 script will end with on console log recorded.
+
+i = 1  log null
+i = 3  log 3
+i = 5  log null
+i = 7  log null
+i = 9  log 9
+1 = 11 exit function
+
+j = 1 log 1 
+j = 2 add j + 2 log 4
+j = 5 log 5
+j = 6 add j + 2 log 8
+j = 9 add j + 1 log 10
+j = 11 log 11
+j = 12 add j + 2 log 14
+j = 15 add j + 1 log 15
