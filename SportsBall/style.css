@@ -2,7 +2,7 @@
 *{
     margin: 0px;
     padding: 0px;
-   }
+    }
 body,
 div,
 dl,
@@ -97,4 +97,7 @@ hr {
 }
 .foot {
     text-align: left;
+}
+h1 {
+    font-size: 4vw;
 }
