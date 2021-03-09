@@ -8,7 +8,7 @@ for(var i = 1; i < 10; i+=2){
         console.log(i);
     }
 }
-// Prediction: Will 1,4,5,8,10,11,14 and 16 to console log
+// Prediction: Will print 1,4,5,8,10,11,14 and 16 to console log
 for(var j = 1; j <= 15; j++){
     if(j % 2 == 0){
         j+=2;
@@ -45,3 +45,4 @@ for(var j = 1; j <= 15; j++){
 // 11
 // 14
 // 16
+
