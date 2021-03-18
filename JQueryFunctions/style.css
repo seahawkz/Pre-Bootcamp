@@ -45,10 +45,19 @@ hr {
 .red {
     color: red;
 }
-#ninja {
+img {
     max-width: 40%;
     max-height: 40%;
 }
 #sdown {
     display: none;
+}
+#dojocat {
+    display: none;
+}
+div {
+    max-height: 350px;
+}
+#input1{
+    border: 2px solid green;
 }
